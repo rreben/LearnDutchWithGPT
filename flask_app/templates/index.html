@@ -1,0 +1,43 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON CRUD Anwendung</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>JSON CRUD Anwendung</h1>
+    <h2>{{ title }}</h2>
+    <p>{{ description }}</p>
+    <form action="/add" method="post">
+        <input type="text" name="new_title" placeholder="Lektionstitel" required>
+        <input type="text" name="new_description" placeholder="Lektionbeschreibung" required>
+        <input type="text" name="new_exercise" placeholder="Neue Übung hinzufügen" required>
+        <button type="submit">Hinzufügen</button>
+    </form>
+    <ul>
+        {% for exercise in exercises %}
+            <li>
+                <strong>{{ exercise.explanation.text }}</strong>
+                <ul>
+                    {% for task in exercise.tasks %}
+                        <li>
+                            {{ task.teacher_speaks.text }} - Lösung: {{ task.teacher_solution.text }}
+                        </li>
+                    {% endfor %}
+                </ul>
+                <form action="/add_task/{{ loop.index0 }}" method="post">
+                    <input type="text" name="new_task" placeholder="Neue Aufgabe hinzufügen" required>
+                    <input type="text" name="new_solution" placeholder="Lösung der Aufgabe" required>
+                    <button type="submit">Aufgabe hinzufügen</button>
+                </form>
+                <form action="/delete/{{ loop.index0 }}" method="post" style="display:inline;">
+                    <button type="submit">Übung löschen</button>
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
