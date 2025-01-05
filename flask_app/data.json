@@ -1,0 +1,42 @@
+{
+    "exercises": [
+        {
+            "text": "Ein Test"
+        },
+        {
+            "text": "noch eine \u00dcbung"
+        }
+    ],
+    "lesson": {
+        "title": {
+            "text": "Eine \u00dcbungslektion",
+            "language_code": "de"
+        },
+        "description": {
+            "text": "dazu die Beschreibung",
+            "language_code": "de"
+        },
+        "exercises": [
+            {
+                "explanation": {
+                    "text": "Eine erste \u00dcbung",
+                    "language_code": "de"
+                },
+                "tasks": [
+                    {
+                        "teacher_speaks": {
+                            "text": "test",
+                            "language_code": "nl"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "test",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    }
+                ]
+            }
+        ]
+    }
+}
