@@ -132,7 +132,7 @@ def generate_speech_segment(client, voice_id: str, text: str) -> AudioSegment:
     um 'text' mit der gewünschten Stimme 'voice_id' zu generieren
     und gibt ein AudioSegment zurück.
     """
-
+    print(f"Generating speech for '{text}' with voice '{voice_id}'...")
     # Beispiel mit ElevenLabs:
     # (Du brauchst einen globalen 'client' oder importierten 'client')
     # Hier setzen wir beispielhaft Voice-Einstellungen.
@@ -204,7 +204,7 @@ def generate_lesson_audio(
     title_text = lesson_data["lesson"]["title"]["text"]
     title_lang = lesson_data["lesson"]["title"]["language_code"]
     title_voice = VOICE_CONFIG.get(title_lang, "default_voice")
-    title_segment = generate_speech_segment(title_voice, title_text)
+    title_segment = generate_speech_segment(client, title_voice, title_text)
     combined_audio += title_segment
     # kleine Pause nach dem Titel
     combined_audio += AudioSegment.silent(duration=500)
@@ -214,7 +214,7 @@ def generate_lesson_audio(
     description_lang = lesson_data["lesson"]["description"]["language_code"]
     description_voice = VOICE_CONFIG.get(description_lang, "default_voice")
     description_segment = generate_speech_segment(
-        description_voice, description_text
+        client, description_voice, description_text
     )
     combined_audio += description_segment
     # kleine Pause nach der Beschreibung
@@ -230,7 +230,7 @@ def generate_lesson_audio(
         explanation_lang = exercise["explanation"]["language_code"]
         explanation_voice = VOICE_CONFIG.get(explanation_lang, "default_voice")
         explanation_segment = generate_speech_segment(
-            explanation_voice, explanation_text)
+            client, explanation_voice, explanation_text)
         combined_audio += explanation_segment
         # kleine Pause nach der Erklärung
         combined_audio += AudioSegment.silent(duration=500)
@@ -245,7 +245,7 @@ def generate_lesson_audio(
             teacher_lang = task["teacher_speaks"]["language_code"]
             teacher_voice = VOICE_CONFIG.get(teacher_lang, "default_voice")
             teacher_segment = generate_speech_segment(
-                teacher_voice, teacher_text)
+                client, teacher_voice, teacher_text)
             combined_audio += teacher_segment
 
             # (iii) Stille als Wartezeit für Schülerantwort
@@ -258,7 +258,7 @@ def generate_lesson_audio(
             solution_lang = task["teacher_solution"]["language_code"]
             solution_voice = VOICE_CONFIG.get(solution_lang, "default_voice")
             solution_segment = generate_speech_segment(
-                solution_voice, solution_text)
+                client, solution_voice, solution_text)
             combined_audio += solution_segment
 
             # (v) Optional: weiterer Separator, falls im JSON gewünscht
