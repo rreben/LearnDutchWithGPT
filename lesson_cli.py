@@ -2,6 +2,7 @@
 import click
 import os
 from dotenv import load_dotenv
+import sys
 from elevenlabs import ElevenLabs
 from lesson_generator.audio_generation import generate_lesson_audio
 
@@ -28,6 +29,16 @@ def main(input_file, output_file):
     # 1) Lade die .env-Variablen
     load_dotenv()
     api_key = os.getenv("ELEVENLABS_API_KEY")
+    print('apikey:', api_key)
+    if not api_key:
+        click.echo(
+            "ERROR: No ELEVENLABS_API_KEY found."
+            "Please set it in your .env file "
+            "or environment variables."
+        )
+        sys.exit(1)  # Abbrechen, wenn kein API-Key vorhanden ist
+    else:
+        click.echo(f"ELEVENLABS_API_KEY found: {api_key}")
 
     if not api_key:
         click.echo(
@@ -35,7 +46,7 @@ def main(input_file, output_file):
             "Please set it in your .env file "
             "or environment variables."
         )
-        return  # Abbrechen, wenn kein API-Key vorhanden ist
+        sys.exit(1)  # Abbrechen, wenn kein API-Key vorhanden ist
 
     # 2) Initialisiere den ElevenLabs-Client
     client = ElevenLabs(api_key=api_key)
