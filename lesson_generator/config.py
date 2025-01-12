@@ -22,6 +22,8 @@ VOICE_CONFIG = {
     "en": "english_voice_id",
     "fr": "french_voice_id",
     "es": "spanish_voice_id",
+    "de": "onwK4e9ZLuTAKqWW03F9",  # Daniel pre-made voice
+    "nl": "9BWtsMINqrJLrRacOk9x"  # Aria pre-made voice
     # etc.
     # Falls Sprache nicht definiert, nutze "default_voice" oder Standardstimme
 }
