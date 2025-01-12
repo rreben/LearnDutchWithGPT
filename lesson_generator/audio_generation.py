@@ -5,6 +5,7 @@ import json
 
 # pydub zum Arbeiten mit Audios
 from pydub import AudioSegment
+from pydub.effects import compress_dynamic_range  # Komprimierung importieren
 
 # ElevenLabs (oder anderer TTS-Dienst) - hier als Beispiel
 # Du musst sicherstellen, dass "client" importiert oder initialisiert ist,
@@ -126,6 +127,32 @@ def validate_json_structure(json_data: str) -> bool:
     return True
 
 
+def normalize_segment(audio_segment, target_dBFS=-20.0):
+    """
+    Normalisiert ein AudioSegment auf die Ziel-Lautstärke (target_dBFS).
+    """
+    current_dBFS = audio_segment.dBFS
+    change_in_dBFS = target_dBFS - current_dBFS
+    return audio_segment.apply_gain(change_in_dBFS)
+
+
+def compress_audio_segment(audio_segment, threshold=-20.0, ratio=4.0):
+    """
+    Komprimiert die Dynamik des AudioSegments: Reduziert Unterschiede
+    zwischen leisen und lauten Passagen.
+
+    :param audio_segment: Das zu komprimierende AudioSegment
+    :param threshold: Lautheitsschwelle in dB
+                      (Alles über diesem Wert wird reduziert)
+    :param ratio: Verhältnis der Komprimierung. Z.B. 4.0 bedeutet, dass laute
+                  Stellen um den Faktor 4 reduziert werden.
+    :return: Komprimiertes AudioSegment
+    """
+    return compress_dynamic_range(
+        audio_segment, threshold=threshold, ratio=ratio
+    )
+
+
 def generate_speech_segment(client, voice_id: str, text: str) -> AudioSegment:
     """
     Ruft die TTS-API (ElevenLabs oder anderen Dienst) auf,
@@ -151,6 +178,8 @@ def generate_speech_segment(client, voice_id: str, text: str) -> AudioSegment:
     )
 
     segment = convert_to_audio_segment(response, format='mp3')
+    # Normalisierung auf Ziel-Lautstärke (-20 dBFS empfohlen) ***
+    segment = normalize_segment(segment, target_dBFS=-20.0)
     return segment
 
 
@@ -185,7 +214,10 @@ def generate_separator_tone(tone_type: str) -> AudioSegment:
 
 
 def generate_lesson_audio(
-    json_data: str, output_filename: str = "lesson_output.mp3", client=None
+    json_data: str,
+    output_filename: str = "lesson_output.mp3",
+    client=None,
+    use_compression: bool = False
 ):
     """
     Liest die Lektionsdaten aus 'json_data', validiert sie und baut eine
@@ -266,5 +298,16 @@ def generate_lesson_audio(
                 combined_audio += AudioSegment.silent(duration=1000)
 
     # 5) Alles exportieren
+    # *** Füge abschließende Normalisierung des gesamten kombinierten Audios
+    # hinzu ***
+    combined_audio = normalize_segment(combined_audio, target_dBFS=-20.0)
+    # *** Wenn die Komprimierung aktiviert ist, wende sie an ***
+    if use_compression:
+        print("Applying dynamic range compression...")
+        combined_audio = compress_audio_segment(
+            combined_audio, threshold=-20.0, ratio=4.0
+        )
+    else:
+        print("Skipping dynamic range compression...")
     combined_audio.export(output_filename, format="mp3")
     print(f"Audio lesson successfully saved as '{output_filename}'.")
