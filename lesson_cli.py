@@ -20,7 +20,6 @@ from lesson_generator.audio_generation import generate_lesson_audio
     show_default=True,
     help="Target filename for the generated MP3."
 )
-@click.version_option("0.1.0", "--version", "-v", prog_name="lesson-cli")
 def main(input_file, output_file):
     """
     Reads lesson data from 'input_file', validates it, and creates
