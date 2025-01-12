@@ -14,3 +14,15 @@ def test_lesson_cli_help():
     result = runner.invoke(main, ['--help'])
     assert result.exit_code == 0
     assert 'Generates an MP3 lesson from a JSON file' in result.output
+
+
+def test_lesson_cli_work(test_files_path):
+    runner = CliRunner()
+    result = runner.invoke(
+            main, [
+                '-i', os.path.join(test_files_path, 'gekuerzte_lesson.json'),
+                '-o', 'test.mp3'
+            ]
+        )
+    assert result.exit_code == 0
+    assert 'Generates an MP3 lesson from a JSON file' in result.output
