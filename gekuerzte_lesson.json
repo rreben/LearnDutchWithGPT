@@ -1,0 +1,78 @@
+{
+  "lesson": {
+    "title": {
+      "text": "Direkte und indirekte Rede",
+      "language_code": "de"
+    },
+    "description": {
+      "text": "In dieser Übung üben Sie den Unterschied zwischen direkter und indirekter Rede im Niederländischen. Sie lernen, wie Sie Aussagen aus der direkten Rede in die indirekte Rede umformulieren.",
+      "language_code": "de"
+    },
+    "exercises": [
+      {
+        "explanation": {
+          "text": "Wiederholen Sie jeden Satz in indirekter Rede.",
+          "language_code": "de"
+        },
+        "tasks": [
+          {
+            "teacher_speaks": {
+              "text": "Hij zegt: 'Ik ga morgen naar Amsterdam.'",
+              "language_code": "nl"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij zegt dat hij morgen naar Amsterdam gaat.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Zij zegt: 'Ik hou van chocolade.'",
+              "language_code": "nl"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij zegt dat ze van chocolade houdt.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          }
+        ]
+      },
+      {
+        "explanation": {
+          "text": "Wiederholen Sie jede Frage in indirekter Rede.",
+          "language_code": "de"
+        },
+        "tasks": [
+          {
+            "teacher_speaks": {
+              "text": "Hij vraagt: 'Heb je mijn boek al gelezen?'",
+              "language_code": "nl"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij vraagt of je zijn boek al hebt gelezen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Zij vraagt: 'Waar ben je gisteren naartoe gegaan?'",
+              "language_code": "nl"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij vraagt waar je gisteren naartoe bent gegaan.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          }
+        ]
+      }
+    ]
+  }
+}
