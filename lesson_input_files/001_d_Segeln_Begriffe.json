@@ -1,0 +1,163 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Segelbegriffe an Bord",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion werden wichtige Begriffe an Bord eines Segelbootes besprochen. Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche. Es geht nicht darum jeden Satz genau zu übersetzen, sondern den jeweiligen Begriff zu verstehen und anzuwenden.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Begriffe zur Sicherheit an Bord",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Halte deine Hand am Vorstag.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Houd je hand aan de voorstag.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Springe nicht an Deck.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Spring niet aan dek.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Nutze eine Hand für das Schiff und eine Hand für dich.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Gebruik één hand voor het schip en één hand voor jezelf.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Wantputtings müssen regelmäßig geprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De wantputtings moeten regelmatig gecontroleerd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Befestigung des Ruders sollte überprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De bevestiging van het roer moet gecontroleerd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Topbeschlag muss wöchentlich überprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het topbeslag moet wekelijks gecontroleerd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Schoten und Fallen sollten regelmäßig inspiziert werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Schoten en vallen moeten regelmatig geïnspecteerd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Rumpf sollte auf mögliche Kratzer geprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De romp moet gecontroleerd worden op krassen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Reinigung",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Das Deck muss regelmäßig gereinigt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het dek moet regelmatig schoongemaakt worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Wasserlinie sollte gesäubert werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De waterlijn moet schoongemaakt worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Kielkasten muss entleert werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De kielbun moet geleegd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

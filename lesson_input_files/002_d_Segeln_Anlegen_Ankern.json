@@ -1,0 +1,179 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Sätze und Begriffe zum Anlegen und Ankern",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Übung lernen Sie Sätze und Begriffe zum Anlegen und Ankern von Booten auf Niederländisch. Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche. Es geht nicht darum jeden Satz genau zu übersetzen, sondern den jeweiligen Begriff zu verstehen und anzuwenden.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Wörter und Begriffe zum Ankern",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Der Anker muss sich in den Boden eingraben.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het anker moet zich in de bodem ingraven.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot soll im Wind bleiben.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot moet in de wind blijven liggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Ankerleine muss knickfrei ausgelegt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ankerlijn moet zonder kinken klaargelegd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Ende der Leine wird an der Mastbasis befestigt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het einde van de lijn wordt aan de mastvoet vastgemaakt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot treibt sechs Mal die Wassertiefe ab.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot drijft zes keer de waterdiepte weg.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Anker muss gut greifen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het anker moet goed pakken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot wird gegen den Wind gesteuert.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot wordt tegen de wind in gestuurd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Anker wird vorsichtig eingeholt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het anker wordt voorzichtig binnengehaald.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Segel wird erst nach dem Lösen des Ankers gesetzt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het zeil wordt pas gezet na het losmaken van het anker.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot muss während des Ankerns sicher liegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot moet tijdens het ankeren veilig liggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Ankerleine sollte fünfmal so lang sein wie die Wassertiefe.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ankerlijn moet vijf keer zo lang zijn als de waterdiepte.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Ein Boot kann beim Ankern schwojen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Een boot kan slingeren bij het ankeren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Ankern muss das Boot möglichst in den Wind gedreht sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij het ankeren moet de boot zoveel mogelijk in de wind liggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,167 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Segelbegriffe an Bord",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion werden wichtige Begriffe an Bord eines Segelbootes besprochen. Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche. Es geht nicht darum jeden Satz genau zu übersetzen, sondern den jeweiligen Begriff zu verstehen und anzuwenden.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Begriffe für Segel und Boot",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Die Fock ist das dreieckige Vorsegel eines Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De fok is een driehoekig zeil aan de voorkant van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Großsegel ist das Hauptsegel des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het grootzeil is het grote zeil op de hoofdmast van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Baum ist eine horizontale Stange an der Unterseite des Großsegels.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De giek is een horizontale paal aan de onderkant van het grootzeil.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Pinne dient zum Steuern des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De helmstok wordt gebruikt om de boot te sturen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Ruderblatt befindet sich unter Wasser und steuert das Boot.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het roerblad bevindt zich onder water en bestuurt de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Ein kräftiger Wind kann das Segel stark ziehen lassen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Een sterke wind kan het zeil hard laten trekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Segeln muss das Großsegel oft nachgestellt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Tijdens het zeilen moet het grootzeil vaak worden bijgesteld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Wenden sollte die Fock schnell übergeholt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij het overstag gaan moet de fok snel worden overgehaald.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Eine Seemeile pro Stunde wird als Knoten bezeichnet.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Een zeemijl per uur wordt een knoop genoemd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Geschwindigkeit eines Bootes wird in Knoten gemessen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De snelheid van een boot wordt in knopen gemeten.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Reisezeit wird mit der Geschwindigkeit in Knoten berechnet.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De reistijd wordt berekend op basis van de snelheid in knopen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Segeln ist es wichtig, die Geschwindigkeit zu kennen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij het zeilen is het belangrijk om de snelheid te kennen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

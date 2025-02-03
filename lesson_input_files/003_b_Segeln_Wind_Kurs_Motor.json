@@ -1,0 +1,163 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Begriffe zu Wind, Kursen und Motorführung",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion lernen Sie wichtige Fachbegriffe rund um Wind, Kurse, scheinbaren Wind sowie das Fahren unter Segel und Motor. Dabei wird auf das korrekte Vokabular, typische Manöver und Sicherheitsaspekte eingegangen.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Begriffe zu Wind und Kursen. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Beim Halsen dreht das Heck durch den Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij gijpen draait het achterschip door de wind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Segel killt, wenn es nicht richtig im Wind steht.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het zeil kilt als het niet goed in de wind staat.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Wind kommt vom Ufer, das nennt man Luvufer.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De wind komt vanaf de wal, dat heet hogerwal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Wind weht auf das Ufer zu, das nennt man Legerwall.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De wind waait richting de wal, dat heet lagerwal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Anlegen an einem Legerwall erfordert mehr Geschick.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het aanleggen bij lagerwal vereist meer vaardigheid.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Wahrer Wind, Fahrtwind und scheinbarer Wind. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Der wahre Wind entsteht unabhängig von der Bewegung des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ware wind ontstaat onafhankelijk van de beweging van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Fahrtwind entsteht durch die Geschwindigkeit des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De vaartwind ontstaat door de snelheid van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der scheinbare Wind ist die Kombination aus wahrem Wind und Fahrtwind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De schijnbare wind is de combinatie van ware wind en vaartwind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der wahre Wind kann durch die Beobachtung der Wasseroberfläche bestimmt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ware wind kan worden bepaald door het observeren van het wateroppervlak.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der scheinbare Wind ist die Windrichtung, die man an Bord fühlt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De schijnbare wind is de windrichting die je aan boord voelt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Wenn das Boot gegen den Wind fährt, addieren sich wahrer Wind und Fahrtwind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer de boot tegen de wind in vaart, worden de ware wind en de vaartwind opgeteld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

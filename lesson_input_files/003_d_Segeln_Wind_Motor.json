@@ -1,0 +1,155 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Begriffe zu Wind, Kursen und Motorführung",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion lernen Sie wichtige Fachbegriffe rund um Wind, Kurse, scheinbaren Wind sowie das Fahren unter Segel und Motor. Dabei wird auf das korrekte Vokabular, typische Manöver und Sicherheitsaspekte eingegangen.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Fahren unter Segel oder Motor. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Der Benzinhahn an Backbord muss geöffnet sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Controleer of het benzinekraantje aan bakboord open is.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Neutralstellung des Schalters für Vorwärts- oder Neutralstellung muss geprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Controleer of de schakelaar op 'neutraal' staat.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor kalt ist, muss der Choke herausgezogen werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij een koude motor de choke uittrekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Gasregler muss so eingestellt werden, dass sich die Dreiecke gegenüberliegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Draai het handvat zodat de driehoeken naar elkaar wijzen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Seilzugstarter muss vorsichtig betätigt werden, ohne ruckartig zu ziehen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Trek voorzichtig aan het startkoord, zonder kracht.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor nicht startet, könnte der Benzinhahn noch geschlossen sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Benzinekraantje misschien nog dicht?",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor „abgesoffen“ ist, muss der Choke geschlossen, das Gas voll geöffnet und mehrmals gezogen werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Motor mogelijk verzopen? Choke sluiten, gas open en trekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor anspringt und dann wieder ausgeht, muss der Benzinhahn geöffnet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Motor start en stopt weer? Benzinekraantje openen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls sich Wasser im Benzintank befindet, kann schon ein Tropfen den Vergaser verstopfen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Water in de benzinetank? Eén druppel kan de carburator verstoppen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor heiß wird, könnte das Impeller verschlissen sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Motor wordt heet? Misschien is de impeller versleten.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Ruder muss beim Rückwärtsfahren gut festgehalten werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het roer goed vasthouden bij achteruit varen!",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

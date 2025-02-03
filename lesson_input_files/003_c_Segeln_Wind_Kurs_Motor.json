@@ -1,0 +1,151 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Begriffe zu Wind, Kursen und Motorführung",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion lernen Sie wichtige Fachbegriffe rund um Wind, Kurse, scheinbaren Wind sowie das Fahren unter Segel und Motor. Dabei wird auf das korrekte Vokabular, typische Manöver und Sicherheitsaspekte eingegangen.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Wahrer Wind, Fahrtwind und scheinbarer Wind. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Wenn das Boot mit dem Wind fährt, subtrahiert sich der Fahrtwind vom wahren Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer de boot met de wind mee vaart, wordt de vaartwind van de ware wind afgetrokken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Je schneller das Boot segelt, desto weiter vorne kommt der scheinbare Wind an.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Hoe sneller de boot vaart, hoe voorlijker de schijnbare wind binnenkomt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Fahren unter Segel oder Motor. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Ein geringer Ruderausschlag hat eine maximale Steuerwirkung.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij weinig roeruitslag is het sturende effect maximaal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Nach einer engen Kurve bleibt das Boot fast stehen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Na een scherpe bocht ligt de boot vrijwel stil.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Rückwärtsfahren ist das Steuerverhalten spiegelverkehrt zum Vorwärtsfahren.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij achteruit varen werkt het sturen hetzelfde als bij vooruit varen, maar dan gespiegeld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Es muss überprüft werden, ob die Schraube durch das Ruder gefährdet ist.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Er moet gecontroleerd worden of de schroef door het roer geraakt kan worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Bei Personen im Wasser muss der Motor sofort ausgeschaltet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij directe aanwezigheid van personen in het water dient de motor te worden uitgeschakeld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Lassen Sie den Motor ins Wasser, indem Sie den Hebel an Steuerbord nach oben ziehen und den Motor langsam absenken.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Laat de motor in het water zakken door het heveltje aan stuurboord omhoog te trekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Vor dem Start muss überprüft werden, dass sich der Motor beim Rückwärtsfahren nicht hochklappt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Controleer of de motor bij achteruit draaien niet omhoogklapt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Benzindeckel muss geöffnet und der Benzinstand überprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Open de benzinedop en controleer het brandstofniveau.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

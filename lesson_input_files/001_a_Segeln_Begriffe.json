@@ -1,0 +1,143 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Segelbegriffe an Bord",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion werden wichtige Begriffe an Bord eines Segelbootes besprochen.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche. Es geht nicht darum jeden Satz genau zu übersetzen, sondern den jeweiligen Begriff zu verstehen und anzuwenden.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Die Pinne dient zur Steuerung des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De helmstok wordt gebruikt om de boot te sturen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Schoten werden genutzt, um die Segel zu trimmen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De schoten worden gebruikt om de zeilen te trimmen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Klemme hält die Schoten in Position.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De klem houdt de schoten op hun plaats.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der vordere Teil des Bootes wird Bug genannt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het voorste deel van de boot staat bekend als de boeg.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Heck ist der hintere Teil des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het achterschip is het achterste deel van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die linke Seite des Bootes wird Backbord genannt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De linkerkant van de boot wordt bakboord genoemd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die rechte Seite des Bootes heißt Steuerbord.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De rechterkant van de boot heet stuurboord.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Luvseite ist die Seite, von der der Wind kommt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Loefzijde is de richting waar de wind vandaan komt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Leeseite ist die dem Wind abgewandte Seite.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Lijzijde verwijst naar de richting waar de wind naartoe waait.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Wenden dreht der Bug durch den Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij het overstag gaan draait de boeg door de wind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

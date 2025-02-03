@@ -1,0 +1,83 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Sätze und Begriffe zum Anlegen und Ankern",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Übung lernen Sie Sätze und Begriffe zum Anlegen und Ankern von Booten auf Niederländisch. Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche. Es geht nicht darum jeden Satz genau zu übersetzen, sondern den jeweiligen Begriff zu verstehen und anzuwenden.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Begriffe zum An und Ablegen mit Motor",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen am Leeufer sollte man das Boot treiben lassen und anschließend festmachen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij lagerwal laten drijven en afmeren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen am Längsufer muss das Boot langsam parallel zur Kaimauer herangeführt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij langswal snelheid minderen en parallel aanleggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen am Luvufer sollte man zuerst mit dem Heck anlegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij hogerwal achteruit aanleggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Ablegen am Leeufer muss das Boot rückwärts ablegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij lagerwal achteruit wegvaren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Ablegen am Luvufer sollte der Motor auf Neutral gestellt werden, damit das Boot abtreiben kann.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij hogerwal de motor op neutraal en laten afdrijven.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

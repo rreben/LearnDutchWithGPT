@@ -1,0 +1,139 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Segelbegriffe an Bord",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion werden wichtige Begriffe an Bord eines Segelbootes besprochen. Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche. Es geht nicht darum jeden Satz genau zu übersetzen, sondern den jeweiligen Begriff zu verstehen und anzuwenden.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Verwendung von Segelbegriffen",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Ein Schiff muss segelklar und nachtklar gemacht werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Een schip moet zeilklaar en nachtklaar worden gemaakt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Fallen müssen richtig verstaut werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De vallen moeten goed worden opgeborgen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Segelcover sollte ohne Falten angebracht werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het huikje moet zonder plooien over het zeil worden gedaan.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Schoten müssen aufgeschossen und aufgehängt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De schoten moeten worden opgescheten en opgehangen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot sollte sauber und trocken hinterlassen werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot moet schoon en droog worden achtergelaten.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Im Niederländischen wird die Leeseite für den Bugnamen verwendet.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "In het Nederlands wordt de lijzijde gebruikt voor de naam van de boeg.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Tack – Bugbezeichnung. Es wird erklärt, wie die Begriffe im Englischen verwendet werden. Achtung im Englischen sind die Kursbezeichnungen genau entgegengesetz zum Verständnis im Deutschen und Niederländischen.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Im Englischen wird die Luvseite für den Bugnamen verwendet.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "In het Engels wordt de loefzijde gebruikt voor de naam van de boeg.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "„Starboard Tack“ bedeutet „Backbordbug“.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "„Starboard tack“ betekent „over bakboord“.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "„Port Tack“ bedeutet „Steuerbordbug“.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "„Port tack“ betekent „over stuurboord“.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
