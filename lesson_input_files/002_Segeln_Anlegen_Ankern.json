@@ -1,0 +1,651 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Sätze und Begriffe zum Anlegen und Ankern",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Übung lernen Sie Sätze und Begriffe zum Anlegen und Ankern von Booten auf Niederländisch.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Bitte die Sätze ins Niederländische übersetzen. Sie hören den deutschen Satz und haben dann 5 Sekunden Zeit, um die niederländische Übersetzung zu formulieren.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen gegen den Wind muss die Sicherheit von Boot und Crew stets beachtet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij aankomen aan de wind moet de veiligheid van boot en bemanning goed in de gaten gehouden worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot darf nicht zu schnell oder zu langsam fahren, um sicher anzulegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot mag niet te snel of te langzaam varen om veilig aan te komen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Steuermann muss das Boot rechtzeitig abdrehen oder beschleunigen, um den richtigen Winkel zu treffen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De stuurman moet op tijd en onder de juiste hoek wegdraaien of de boot versnellen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Andere Boote müssen jederzeit beachtet werden, um Zusammenstöße zu vermeiden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Andere boten moeten goed in de gaten gehouden worden om botsingen te voorkomen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Festmacherleine sollte bereits belegt sein, bevor das Boot am Kai anlegt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De landvast moet al op de kikker belegd zijn voordat de boot aan de kade komt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Niemals dürfen Hände oder Füße zwischen Bug und Kai geraten, da Verletzungsgefahr besteht.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Nooit mogen handen of voeten tussen de steven en de kade komen, omdat er gevaar voor verwondingen is.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Teilnehmer müssen die Boote selbstständig und sicher anlegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De deelnemers moeten de boten zelfstandig en veilig afmeren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Boote können in der Box vor unserer Tür, am Längswal oder in den schrägen Boxen festgemacht werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boten kunnen in de box bij ons voor de deur, langswal of in de scheve boxen afgemeerd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Schiff muss während des An- und Ablegens frei von Pfählen und dem Ufer bleiben.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Zorg ervoor dat het schip tijdens het afmeren en ontmeren vrij blijft van palen en de wal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Fender müssen an der richtigen Stelle ausgebracht werden, damit das Boot geschützt ist.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Hang stootwillen uit op de plek waar de boot de wal raakt om bescherming te bieden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Zuerst müssen die Leinen an der Luvseite befestigt werden und beim Ablegen als Letztes gelöst werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Maak eerst de lijnen aan loef vast en bij vertrek als laatste los.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot kann mit einem Bootshaken oder Festmacherleinen in die richtige Position gesteuert werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Gebruik een vaarboom en/of landvasten om de boot in de juiste positie te sturen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Bug muss mindestens 30 cm von der Kaimauer entfernt bleiben.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boeg zeker 30 centimeter van de wal af houden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Backbord-Achterleine stramm ziehen und auf der Klampe belegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Trek de bakboord achterlandvast helemaal strak en beleg deze op de kikker.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Je nach Liegeplatz muss die Pinne entweder gesichert oder freigegeben werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Afhankelijk van de ligplaats moet de helmstok wel of niet geborgd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Nagelbänke, Mast, Wantputtings und Winschen sind nicht zum Festmachen gedacht.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Nagelbank, mast, wantputtings en lieren zijn NIET bedoeld om de boot aan af te meren!",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot muss vor Verlassen und Ablegen immer gereinigt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Voor het achterlaten van de boot en voor het wegvaren altijd de boot schoonmaken!",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot Längsseits festmachen",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot langszij afmeren",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Zwei Fender am breitesten Punkt der Bootes befestigen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Beleg twee stootwillen op het breedste punt van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Achterleine an einem Ring hinter dem Boot belegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Beleg de achterlandvast op een ring achter de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Vorleine an einem Ring vor dem Boot belegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Beleg de voorlandvast op een ring voor de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Boot mit Achterspring festmachen, sodass es parallel zur Kaimauer liegt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Meer de boot met behulp van een achterspring zo af dat de boot keurig parallel aan de wal ligt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Wenn das Boot neben einer anderen Valk oder der Fox festgemacht wird, müssen zwei Fender am breitesten Punkt des Bootes befestigt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer de boot naast een andere Valk of de Fox wordt afgemeerd, moeten twee stootwillen op het breedste punt van de boot worden bevestigd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Bugleine muss auf der Klampe des anderen Bootes belegt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De voorlandvast moet op de kikker van de andere boot worden belegd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Achterleine sollte um die Klampe des anderen Bootes geführt und dann auf der eigenen Klampe belegt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De achterlandvast moet om de kikker van de andere boot worden gehaald en vervolgens op de eigen kikker worden belegd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot sollte immer mit zwei Festmachern und zwei Springen festgemacht werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot moet altijd met twee landvasten en twee springen worden afgemeerd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Es dürfen nicht mehr als drei Boote nebeneinander festgemacht werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Er mogen niet meer dan DRIE boten naast elkaar worden afgemeerd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Springs verlaufen entweder von der Bugklampe nach hinten oder von der Heckklampe nach vorne.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Een spring gaat altijd van de voorkikker naar achteren of van de achterkikker naar voren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Entlang einer Kaimauer mit starkem Bootsverkehr müssen lange Festmacherleinen verwendet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Langs een kade waar snel gevaren wordt, moeten lange landvasten worden gebruikt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Pinne darf nicht nach außen schwingen können.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De helmstok mag niet buitenboord kunnen zwaaien.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Motor muss im Wasser hängen und darf nicht hochgeklappt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De motor moet in het water hangen en mag niet opklappen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Wenn zwei Boote nebeneinander liegen, müssen immer zwei Springs verwendet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer twee boten naast elkaar afmeren, moeten er altijd twee springen worden gebruikt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Lange Leinen sollten immer stärker gespannt werden als kurze.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Lange lijnen moeten altijd strakker gespannen worden dan korte.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Begriffe zum An und Ablegen mit Motor",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen am Leeufer sollte man das Boot treiben lassen und anschließend festmachen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij lagerwal laten drijven en afmeren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen am Längsufer muss das Boot langsam parallel zur Kaimauer herangeführt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij langswal snelheid minderen en parallel aanleggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Anlegen am Luvufer sollte man zuerst mit dem Heck anlegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij hogerwal achteruit aanleggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Ablegen am Leeufer muss das Boot rückwärts ablegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij lagerwal achteruit wegvaren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Ablegen am Luvufer sollte der Motor auf Neutral gestellt werden, damit das Boot abtreiben kann.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij hogerwal de motor op neutraal en laten afdrijven.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Wörter und Begriffe zum Ankern",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Der Anker muss sich in den Boden eingraben.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het anker moet zich in de bodem ingraven.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot soll im Wind bleiben.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot moet in de wind blijven liggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Ankerleine muss knickfrei ausgelegt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ankerlijn moet zonder kinken klaargelegd worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Ende der Leine wird an der Mastbasis befestigt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het einde van de lijn wordt aan de mastvoet vastgemaakt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot treibt sechs Mal die Wassertiefe ab.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot drijft zes keer de waterdiepte weg.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Anker muss gut greifen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het anker moet goed pakken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot wird gegen den Wind gesteuert.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot wordt tegen de wind in gestuurd.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Anker wird vorsichtig eingeholt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het anker wordt voorzichtig binnengehaald.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Segel wird erst nach dem Lösen des Ankers gesetzt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het zeil wordt pas gezet na het losmaken van het anker.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot muss während des Ankerns sicher liegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot moet tijdens het ankeren veilig liggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Ankerleine sollte fünfmal so lang sein wie die Wassertiefe.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ankerlijn moet vijf keer zo lang zijn als de waterdiepte.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Ein Boot kann beim Ankern schwojen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Een boot kan slingeren bij het ankeren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Ankern muss das Boot möglichst in den Wind gedreht sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij het ankeren moet de boot zoveel mogelijk in de wind liggen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

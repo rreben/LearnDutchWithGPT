@@ -1,0 +1,555 @@
+{
+    "lesson": {
+      "title": {
+        "text": "Begriffe zu Wind, Kursen und Motorführung",
+        "language_code": "de"
+      },
+      "description": {
+        "text": "In dieser Lektion lernen Sie wichtige Fachbegriffe rund um Wind, Kurse, scheinbaren Wind sowie das Fahren unter Segel und Motor. Dabei wird auf das korrekte Vokabular, typische Manöver und Sicherheitsaspekte eingegangen.",
+        "language_code": "de"
+      },
+      "exercises": [
+        {
+          "explanation": {
+            "text": "Begriffe zu Wind und Kursen. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Wenn der Wind von vorn kommt, spricht man von Wind recht von vorne.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer de wind van voren komt, spreekt men van wind recht van voren.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Ein Kurs hoch am Wind bedeutet einen geringen Winkel zur Windrichtung.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Hoog aan de wind betekent een kleine hoek met de wind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Ein halber Wind bedeutet, dass der Wind von der Seite kommt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Halve wind betekent dat de wind van opzij komt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Ein Raumwind bedeutet, dass der Wind schräg von hinten kommt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Ruime wind betekent dat de wind schuin van achter komt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Vor dem Wind segeln bedeutet, dass der Wind direkt von hinten kommt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Voor de wind zeilen betekent dat de wind recht van achter komt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Raumer Wind bedeutet, dass der Wind schräg von hinten kommt und das Segel an der Luvseite steht.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Binnen de wind betekent dat de wind schuin van achter komt en het zeil aan de loefzijde staat.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Boot segelt am Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De boot zeilt aan de wind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Raumwind bedeutet, dass der Wind schräg von hinten kommt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Ruime wind betekent dat de wind schuin van achteren komt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Anluven dreht das Boot näher zum Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij oploeven draait de boot dichter naar de wind toe.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Abfallen dreht das Boot vom Wind weg.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij afvallen draait de boot van de wind af.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Wenden dreht der Bug durch den Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij overstag gaan draait de boeg door de wind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Halsen dreht das Heck durch den Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij gijpen draait het achterschip door de wind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Segel killt, wenn es nicht richtig im Wind steht.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het zeil kilt als het niet goed in de wind staat.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Wind kommt vom Ufer, das nennt man Luvufer.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De wind komt vanaf de wal, dat heet hogerwal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Wind weht auf das Ufer zu, das nennt man Legerwall.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De wind waait richting de wal, dat heet lagerwal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Anlegen an einem Legerwall erfordert mehr Geschick.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het aanleggen bij lagerwal vereist meer vaardigheid.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Wahrer Wind, Fahrtwind und scheinbarer Wind. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Der wahre Wind entsteht unabhängig von der Bewegung des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ware wind ontstaat onafhankelijk van de beweging van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Fahrtwind entsteht durch die Geschwindigkeit des Bootes.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De vaartwind ontstaat door de snelheid van de boot.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der scheinbare Wind ist die Kombination aus wahrem Wind und Fahrtwind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De schijnbare wind is de combinatie van ware wind en vaartwind.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der wahre Wind kann durch die Beobachtung der Wasseroberfläche bestimmt werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De ware wind kan worden bepaald door het observeren van het wateroppervlak.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der scheinbare Wind ist die Windrichtung, die man an Bord fühlt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "De schijnbare wind is de windrichting die je aan boord voelt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Wenn das Boot gegen den Wind fährt, addieren sich wahrer Wind und Fahrtwind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer de boot tegen de wind in vaart, worden de ware wind en de vaartwind opgeteld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Wenn das Boot mit dem Wind fährt, subtrahiert sich der Fahrtwind vom wahren Wind.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Wanneer de boot met de wind mee vaart, wordt de vaartwind van de ware wind afgetrokken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Je schneller das Boot segelt, desto weiter vorne kommt der scheinbare Wind an.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Hoe sneller de boot vaart, hoe voorlijker de schijnbare wind binnenkomt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        },
+        {
+          "explanation": {
+            "text": "Fahren unter Segel oder Motor. Sätze übersetzen. Sie hören danach die Lösung.",
+            "language_code": "de"
+          },
+          "tasks": [
+            {
+              "teacher_speaks": {
+                "text": "Ein geringer Ruderausschlag hat eine maximale Steuerwirkung.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij weinig roeruitslag is het sturende effect maximaal.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Nach einer engen Kurve bleibt das Boot fast stehen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Na een scherpe bocht ligt de boot vrijwel stil.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Beim Rückwärtsfahren ist das Steuerverhalten spiegelverkehrt zum Vorwärtsfahren.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij achteruit varen werkt het sturen hetzelfde als bij vooruit varen, maar dan gespiegeld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Es muss überprüft werden, ob die Schraube durch das Ruder gefährdet ist.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Er moet gecontroleerd worden of de schroef door het roer geraakt kan worden.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Bei Personen im Wasser muss der Motor sofort ausgeschaltet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij directe aanwezigheid van personen in het water dient de motor te worden uitgeschakeld.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Lassen Sie den Motor ins Wasser, indem Sie den Hebel an Steuerbord nach oben ziehen und den Motor langsam absenken.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Laat de motor in het water zakken door het heveltje aan stuurboord omhoog te trekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Vor dem Start muss überprüft werden, dass sich der Motor beim Rückwärtsfahren nicht hochklappt.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Controleer of de motor bij achteruit draaien niet omhoogklapt.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Benzindeckel muss geöffnet und der Benzinstand überprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Open de benzinedop en controleer het brandstofniveau.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Benzinhahn an Backbord muss geöffnet sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Controleer of het benzinekraantje aan bakboord open is.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Die Neutralstellung des Schalters für Vorwärts- oder Neutralstellung muss geprüft werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Controleer of de schakelaar op 'neutraal' staat.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor kalt ist, muss der Choke herausgezogen werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Bij een koude motor de choke uittrekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Gasregler muss so eingestellt werden, dass sich die Dreiecke gegenüberliegen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Draai het handvat zodat de driehoeken naar elkaar wijzen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Der Seilzugstarter muss vorsichtig betätigt werden, ohne ruckartig zu ziehen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Trek voorzichtig aan het startkoord, zonder kracht.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor nicht startet, könnte der Benzinhahn noch geschlossen sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Benzinekraantje misschien nog dicht?",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor „abgesoffen“ ist, muss der Choke geschlossen, das Gas voll geöffnet und mehrmals gezogen werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Motor mogelijk verzopen? Choke sluiten, gas open en trekken.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor anspringt und dann wieder ausgeht, muss der Benzinhahn geöffnet werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Motor start en stopt weer? Benzinekraantje openen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls sich Wasser im Benzintank befindet, kann schon ein Tropfen den Vergaser verstopfen.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Water in de benzinetank? Eén druppel kan de carburator verstoppen.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Falls der Motor heiß wird, könnte das Impeller verschlissen sein.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Motor wordt heet? Misschien is de impeller versleten.",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            },
+            {
+              "teacher_speaks": {
+                "text": "Das Ruder muss beim Rückwärtsfahren gut festgehalten werden.",
+                "language_code": "de"
+              },
+              "student_response_time": 5000,
+              "teacher_solution": {
+                "text": "Het roer goed vasthouden bij achteruit varen!",
+                "language_code": "nl"
+              },
+              "play_separator_tone": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
