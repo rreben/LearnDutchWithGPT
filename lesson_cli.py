@@ -21,10 +21,22 @@ from lesson_generator.audio_generation import generate_lesson_audio
     show_default=True,
     help="Target filename for the generated MP3."
 )
-def main(input_file, output_file):
+@click.option(
+    "--export-texts", "-e",
+    type=click.Path(dir_okay=False, writable=True),
+    help="Export teacher texts to a separate text file "
+         "(format: teacher_speaks;teacher_solution)"
+)
+@click.option(
+    "--use-compression", "-c",
+    is_flag=True,
+    help="Apply dynamic range compression to the audio output"
+)
+def main(input_file, output_file, export_texts, use_compression):
     """
     Reads lesson data from 'input_file', validates it, and creates
     an audio lesson in MP3 format under 'output_file'.
+    Optionally exports teacher texts to a separate file.
     """
     # 1) Lade die .env-Variablen
     load_dotenv()
@@ -57,10 +69,16 @@ def main(input_file, output_file):
 
     # 4) Erzeuge die Audiolesung
     generate_lesson_audio(
-        json_data, output_filename=output_file, client=client
+        json_data,
+        output_filename=output_file,
+        client=client,
+        use_compression=use_compression,
+        export_texts=export_texts
     )
 
     click.echo(f"Audio lesson successfully saved as '{output_file}'.")
+    if export_texts:
+        click.echo(f"Teacher texts exported to '{export_texts}'.")
 
 
 if __name__ == "__main__":

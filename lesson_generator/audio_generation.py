@@ -213,21 +213,65 @@ def generate_separator_tone(tone_type: str) -> AudioSegment:
     return AudioSegment.silent(duration=0)
 
 
+def export_teacher_texts(json_data: str, output_filename: str):
+    """
+    Exportiert die Lehrer-Texte ('teacher_speaks' und 'teacher_solution') aller
+    Aufgaben in eine Textdatei. Die Texte werden durch ein Semikolon getrennt.
+
+    :param json_data: JSON-String mit den Lektionsdaten
+    :param output_filename: Pfad zur Ausgabedatei
+    """
+    if not validate_json_structure(json_data):
+        print("Ungültige JSON-Struktur. Export wird abgebrochen.")
+        return
+
+    lesson_data = json.loads(json_data)
+
+    with open(output_filename, 'w', encoding='utf-8') as f:
+        # Kopfzeile hinzufügen
+        f.write("Lehrer-Anweisung;Lehrer-Lösung\n")
+
+        # Über alle Übungen und deren Aufgaben iterieren
+        for exercise in lesson_data["lesson"]["exercises"]:
+            for task in exercise["tasks"]:
+                # Semikolon ersetzen, um CSV-Format nicht zu stören
+                teacher_speaks = (
+                    task["teacher_speaks"]["text"].replace(";", ","))
+                teacher_solution = (
+                    task["teacher_solution"]["text"].replace(";", ","))
+                f.write(f"{teacher_speaks};{teacher_solution}\n")
+
+    print(f"Lehrer-Texte wurden erfolgreich in "
+          f"'{output_filename}' exportiert.")
+
+
 def generate_lesson_audio(
     json_data: str,
     output_filename: str = "lesson_output.mp3",
     client=None,
-    use_compression: bool = False
+    use_compression: bool = False,
+    export_texts: str = None  # Neuer Parameter für den Textexport
 ):
     """
     Liest die Lektionsdaten aus 'json_data', validiert sie und baut eine
     zusammenhängende Audioausgabe zusammen, die als MP3 in 'output_filename'
     gespeichert wird.
+
+    :param json_data: JSON-String mit den Lektionsdaten
+    :param output_filename: Pfad zur MP3-Ausgabedatei
+    :param client: Client für die Sprachsynthese
+    :param use_compression: Ob Audiokompression verwendet werden soll
+    :param export_texts: Wenn angegeben,
+        werden die Lehrer-Texte in diese Datei exportiert
     """
     # 1) JSON validieren
     if not validate_json_structure(json_data):
-        print("Invalid JSON structure. Aborting audio generation.")
+        print("Ungültige JSON-Struktur. Audiogenerierung wird abgebrochen.")
         return
+
+    # Wenn der Text-Export angefordert wurde, führe ihn aus
+    if export_texts:
+        export_teacher_texts(json_data, export_texts)
 
     lesson_data = json.loads(json_data)
     combined_audio = AudioSegment.silent(duration=0)
