@@ -23,9 +23,13 @@ from lesson_generator.audio_generation import generate_lesson_audio
 )
 @click.option(
     "--export-texts", "-e",
-    type=click.Path(dir_okay=False, writable=True),
+    is_flag=False,
+    flag_value="anki_import.txt",
+    default=None,
+    type=click.Path(dir_okay=False),
     help="Export teacher texts to a separate text file "
-         "(format: teacher_speaks;teacher_solution)"
+         "(format: teacher_speaks;teacher_solution). "
+         "Defaults to 'anki_import.txt' if no filename is specified."
 )
 @click.option(
     "--use-compression", "-c",
