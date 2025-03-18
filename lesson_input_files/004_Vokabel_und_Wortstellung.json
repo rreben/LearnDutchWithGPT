@@ -1,0 +1,598 @@
+{
+    "lesson": {
+        "title": {
+            "text": "Wortstellung und Vokabeltraining",
+            "language_code": "de"
+        },
+        "description": {
+            "text": "Diese Übung hilft Ihnen, die Besonderheiten der niederländischen Wortstellung in Haupt- und Nebensätzen zu üben und gleichzeitig den Vokabelschatz zu festigen.",
+            "language_code": "de"
+        },
+        "exercises": [
+            {
+                "explanation": {
+                    "text": "Übersetzen Sie den deutschen Satz ins Niederländische.",
+                    "language_code": "de"
+                },
+                "tasks": [
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich lerne seit letztem Jahr Niederländisch.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik leer Nederlands sinds vorig jaar.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Dozent schreibt an die Tafel und erklärt die Zeichnung.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De docent schrijft op het bord en legt de tekening uit.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich schreibe in meinem Heft mit dem Bleistift und dem Stift in meinem Übungsbuch.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik schrijf in mijn schrift met het potlood en de pende in mijn oefenboek.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich suche neue Wörter im Wörterbuch.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik zoek nieuwe woorden in het woordenboek.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Raum ist groß, das Fenster ist offen und die Farbe der Wände ist rot.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het lokaal is groot, het raam is open en de kleur van de muren is rood.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich nehme an einem Niederländischkurs teil und mein Partner hilft mir.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik volg een cursus Nederlands en mijn partner helpt me.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich finde es schwierig, dass ich den Dozenten nicht immer verstehen kann.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik vind het moeilijk dat ik de docent niet altijd kan verstaan.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich finde es schön, dass mein Au-pair mir hilft, wenn ich ins Ausland reise.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik vind het leuk dat mijn au pair mij helpt als ik naar het buitenland reis.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich studiere an der Universität.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik studeer aan de universiteit.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Staubsauger, das Bügelbrett, die Waschmaschine und das Waschbecken stehen in der Küche.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De stofzuiger, de strijkplank, de wasmachine en de wastafel staan in de keuken.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Es ist dumm und ärgerlich, dass das Durcheinander auf dem Boden liegt.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het is stom en vervelend dat de rommel op de vloer ligt.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Wie schlimm! Das Durcheinander liegt überall!",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Wat naar nou!, de rommel ligt overal!",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Mein Zimmer ist gemütlich und das passt zu mir!",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Mijn kamer is knus en dat past bij me!",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Unterricht ist großartig.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De les is geweldig.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Das scheint mir schön, wenn ich auf dem Balkon sitze.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Dat lijkt me leuk als ik op het balkon zit.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Kauf des Appartements ist teuer, weil der Kaufpreis hoch ist.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De koop van het appartement is duur omdat de koopsom hoog is.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Das Appartement ist offen und hat einen hellen Raum.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het appartement is open en heeft een lichte ruimte.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Abstellraum ist voll und die Beschreibung des Hauses ist vollständig.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De bergruimte is vol en de omschrijving van het huis is volledig.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich träume, dass ich in einem Haus mit einem Reetdach wohne.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik droom dat ik in een huis met een rieten dak woon.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Die Oberfläche des Zimmers ist groß und das Grundstück ist weitläufig.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De oppervlakte van de kamer is groot en het perceel is ruim.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Abstellraum ist klein, aber das spielt keine Rolle.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De berging is klein, maar dat maakt niet uit.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich wohne in einer Wohnung und mein Freund wohnt in einem Reihenhaus.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik woon in een flat en mijn vriend woont in een rijtjeshuis.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Wohnwagen steht im Garten und das Gebäude ist alt.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De caravan staat in de tuin en het gebouw is oud.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich denke, dass das Grachtenhaus schön ist.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik denk dat het grachtenpand mooi is.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Er kauft ein Reihenhaus und die Wohnung ist modern.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Hij koopt een tussenwoning en de woning is modern.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Das Haus ist freistehend und ich besuche das flache Land.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het huis is vrijstaand en ik bezoek het platteland.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich habe meinen Schlüssel verloren und suche den Schlüssel auf dem Tisch.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik ben mijn sleutel kwijt en zoek de sleutel op de tafel.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Meine Laune ist heute gut.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Mijn humeur is goed vandaag.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Die Geschichte hat ein schönes Ende, obwohl sie kurz ist.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het verhaal heeft een mooi einde, hoewel het kort is.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Das Gästezimmer ist ordentlich und das Badezimmer ist sauber.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De logeerkamer is netjes en de badkamer is schoon.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich nehme ein Bad, wenn ich mich im Badezimmer entspannen will.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik neem een bad als ik in de badkamer wil ontspannen.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Das Wohnzimmer ist gemütlich und die Küche ist modern.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De woonkamer is gezellig en de keuken is modern.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Das Schlafzimmer ist ruhig und der Flur ist schmal.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De slaapkamer is rustig en de gang is smal.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Die Spülmaschine funktioniert gut, aber die Maschine macht manchmal Lärm.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De afwasmachine werkt goed, maar de machine maakt soms lawaai.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich sitze auf dem Sofa, während ich fernsehe.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik zit op de bank terwijl ik televisie kijk.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich mache Hausaufgaben an meinem Schreibtisch und benutze mein Übungsbuch.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik maak huiswerk aan mijn bureau en gebruik mijn oefenboek.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Herd ist heiß und der Schrank ist voller Kleidung.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het fornuis is heet en de kast is vol kleren.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Die Mikrowelle ist schnell und der Spiegel hängt an der Wand.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De magnetron is snel en de spiegel hangt aan de muur.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Der Boden ist nass, weil es geregnet hat.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De grond is nat omdat het heeft geregend.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Es ist praktisch, dass ich über ein gutes Wörterbuch verfüge, damit ich schwierige Wörter verstehe.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Het is handig dat ik beschik over een goed woordenboek, zodat ik moeilijke woorden begrijp.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Meine Mutter ist großzügig und kauft immer ein schönes Geschenk.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Mijn moeder is royaal en koopt altijd een mooi cadeau.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich arbeite von zu Hause, wenn ich krank bin.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik werk vanuit huis als ik ziek ben.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich gehe die Treppe hoch und schaue nach oben in den Himmel.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik loop de trap op en kijk omhoog naar de lucht.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Die Miete des Appartements ist hoch, obwohl ich dort gerne wohne.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "De huur van het appartement is hoog, hoewel ik er graag woon.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich telefoniere mit meinem Handy, wenn ich meinen Partner vermisse.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik bel met mijn mobieltje als ik mijn partner mis.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Manchmal ist es einfach und manchmal ist es schwierig.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Soms is het (ge)makkelijk en soms is het moeilijk.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich finde es verrückt, dass mein Partner lacht, wenn ich Niederländisch spreche.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik vind het gek dat mijn partner lacht als ik Nederlands spreek.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    },
+                    {
+                        "teacher_speaks": {
+                            "text": "Ich weiß, dass sie in einer Doppelhaushälfte wohnen.",
+                            "language_code": "de"
+                        },
+                        "student_response_time": 5000,
+                        "teacher_solution": {
+                            "text": "Ik weet dat zij in een twee-onder-een-kapwoning wonen.",
+                            "language_code": "nl"
+                        },
+                        "play_separator_tone": true
+                    }
+                ]
+            }
+        ]
+    }
+}
