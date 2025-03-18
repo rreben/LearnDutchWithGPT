@@ -83,6 +83,7 @@ def main(input_file, output_file, export_texts, use_compression):
     click.echo(f"Audio lesson successfully saved as '{output_file}'.")
     if export_texts:
         click.echo(f"Teacher texts exported to '{export_texts}'.")
+        click.echo("Solution audio files exported to 'tmp_output/' directory.")
 
 
 if __name__ == "__main__":

@@ -2,6 +2,8 @@
 
 import io
 import json
+import os
+import uuid  # Für UUID-Generierung
 
 # pydub zum Arbeiten mit Audios
 from pydub import AudioSegment
@@ -213,19 +215,26 @@ def generate_separator_tone(tone_type: str) -> AudioSegment:
     return AudioSegment.silent(duration=0)
 
 
-def export_teacher_texts(json_data: str, output_filename: str):
+def export_teacher_texts(json_data: str, output_filename: str, client=None):
     """
     Exportiert die Lehrer-Texte ('teacher_speaks' und 'teacher_solution') aller
     Aufgaben in eine Textdatei. Die Texte werden durch ein Semikolon getrennt.
+    Erzeugt zusätzlich MP3-Dateien für jede Solution mit UUID als Namen.
 
     :param json_data: JSON-String mit den Lektionsdaten
     :param output_filename: Pfad zur Ausgabedatei
+    :param client: Client für die Sprachsynthese
     """
     if not validate_json_structure(json_data):
         print("Ungültige JSON-Struktur. Export wird abgebrochen.")
         return
 
     lesson_data = json.loads(json_data)
+
+    # Erstelle tmp_output Verzeichnis falls nötig
+    output_dir = "tmp_output"
+    os.makedirs(output_dir, exist_ok=True)
+    print(f"Verzeichnis '{output_dir}' für Solution-Audio-Dateien bereit.")
 
     with open(output_filename, 'w', encoding='utf-8') as f:
         # Kopfzeile hinzufügen
@@ -239,8 +248,32 @@ def export_teacher_texts(json_data: str, output_filename: str):
                     task["teacher_speaks"]["text"].replace(";", ","))
                 teacher_solution = (
                     task["teacher_solution"]["text"].replace(";", ","))
+
+                # Generiere UUID für diese Solution
+                sound_uuid = str(uuid.uuid4())
+
+                # Erzeuge MP3-Datei für die Solution
+                solution_filename = f"{sound_uuid}.mp3"
+                solution_path = os.path.join(output_dir, solution_filename)
+
+                # Solution audio generieren (nur wenn Client vorhanden)
+                if client:
+                    solution_lang = task["teacher_solution"]["language_code"]
+                    solution_voice = VOICE_CONFIG.get(
+                        solution_lang, "default_voice")
+                    solution_segment = generate_speech_segment(
+                        client, solution_voice,
+                        task["teacher_solution"]["text"])
+                    solution_segment = normalize_segment(solution_segment)
+                    solution_segment.export(solution_path, format="mp3")
+                    print(f"Solution-Audio gespeichert als '{solution_path}'")
+
                 # Anführungszeichen um die Texte herum hinzufügen
-                f.write(f"\"{teacher_speaks}\";\"{teacher_solution}\"\n")
+                # und Sound-Tag anfügen
+                f.write(
+                    f"\"{teacher_speaks}\";\"{teacher_solution}\"; "
+                    f"[sound:{sound_uuid}.mp3]\n"
+                )
 
     print(f"Lehrer-Texte wurden erfolgreich in "
           f"'{output_filename}' exportiert.")
@@ -272,7 +305,8 @@ def generate_lesson_audio(
 
     # Wenn der Text-Export angefordert wurde, führe ihn aus
     if export_texts:
-        export_teacher_texts(json_data, export_texts)
+        export_teacher_texts(json_data, export_texts, client)
+        # Client übergeben
 
     lesson_data = json.loads(json_data)
     combined_audio = AudioSegment.silent(duration=0)
