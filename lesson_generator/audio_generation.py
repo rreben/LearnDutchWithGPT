@@ -239,7 +239,8 @@ def export_teacher_texts(json_data: str, output_filename: str):
                     task["teacher_speaks"]["text"].replace(";", ","))
                 teacher_solution = (
                     task["teacher_solution"]["text"].replace(";", ","))
-                f.write(f"{teacher_speaks};{teacher_solution}\n")
+                # Anführungszeichen um die Texte herum hinzufügen
+                f.write(f"\"{teacher_speaks}\";\"{teacher_solution}\"\n")
 
     print(f"Lehrer-Texte wurden erfolgreich in "
           f"'{output_filename}' exportiert.")
