@@ -249,7 +249,12 @@ def export_teacher_texts(json_data: str, output_filename: str, client=None):
                 teacher_solution = (
                     task["teacher_solution"]["text"].replace(";", ","))
 
-                # Generiere UUID für diese Solution
+                # Generiere UUID4 für diese Solution
+                # UUID4 verwendet kryptographisch starke Zufallszahlen basierend auf:
+                # - System-Entropie (z.B. /dev/urandom)
+                # - Aktuelle Zeit und Prozess-ID
+                # Kollisionswahrscheinlichkeit: ~1 zu 5,3 × 10³⁶ 
+                # (praktisch unmöglich bei normaler Verwendung)
                 sound_uuid = str(uuid.uuid4())
 
                 # Erzeuge MP3-Datei für die Solution
