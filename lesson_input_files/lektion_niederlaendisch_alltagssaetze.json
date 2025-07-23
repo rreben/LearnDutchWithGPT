@@ -1,0 +1,2794 @@
+{
+  "lesson": {
+    "title": {
+      "text": "Alltagssätze – Niederländisch lernen",
+      "language_code": "de"
+    },
+    "description": {
+      "text": "In dieser Lektion übst du alltagstaugliche niederländische Sätze. Höre die deutsche Version, übersetze ins Niederländische und vergleiche anschließend deine Antwort.",
+      "language_code": "de"
+    },
+    "exercises": [
+      {
+        "explanation": {
+          "text": "Übersetze jeden Satz ins Niederländische. Höre danach die Lösung und sprich sie laut nach.",
+          "language_code": "de"
+        },
+        "tasks": [
+          {
+            "teacher_speaks": {
+              "text": "Bitte, hier ist dein Glas Wasser.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Alsjeblieft, hier is je glas water.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er kommt immer pünktlich.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij komt altijd op tijd.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Guten Morgen zusammen!",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Goedemorgen allemaal!",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie wollen beide Kaffee.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij willen allebei koffie.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich habe schon gegessen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik heb al gegeten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du lernst das Alphabet im Unterricht.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je leert het alfabet in de les.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich lese heute Abend eine Zeitung.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik lees vanavond een krant.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Danke für deine Hilfe!",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Bedankt voor je hulp!",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er isst Obst, zum Beispiel einen Apfel.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij eet fruit, bijvoorbeeld een appel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie grüßt den Nachbarn jeden Tag.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij groet de buur elke dag.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich wandere im Wald.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik wandel in het bos.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Bau des Hauses beginnt morgen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De bouw van het huis start morgen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr bleibt heute zu Hause.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie blijven thuis vandaag.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sein Bruder wohnt in Amsterdam.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zijn broer woont in Amsterdam.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du spielst draußen mit Freunden.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je speelt buiten met vrienden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Offenbar ist das Museum geschlossen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Blijkbaar is het museum dicht.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er will dich morgen anrufen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij wil je morgen bellen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie bekommt ein Geschenk zu ihrem Geburtstag.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij krijgt een cadeau voor haar verjaardag.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie sitzen in einem gemütlichen Café.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij zitten in een gezellig café.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du sagst „danke“ zum Lehrer.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je zegt “dank je” tegen de leraar.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich mache die Tür zu.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik doe de deur dicht.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Türknauf ist kaputt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De deurknop is kapot.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er arbeitet am Dienstag nicht.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij werkt dinsdag niet.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Eine Taube sitzt auf dem Dach.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Een duif zit op het dak.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du sprichst deutlich.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je spreekt duidelijk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich träume vom Meer.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik droom over de zee.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Mantel ist teuer.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De jas is duur.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich kaufe ein Buch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik koop een boek.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Jedes Kind bekommt Eis.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Elk kind krijgt ijs.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie helfen einander oft.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij helpen elkaar vaak.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Ende des Films ist spannend.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het eind van de film is spannend.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er kommt früher zurück.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij komt eerder terug.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie ist das einzige Kind.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij is het enig kind.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie essen um sechs Uhr.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij eten om zes uur.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Frage ist einfach.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De vraag is eenvoudig.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich repariere mein Fahrrad.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik repareer mijn fiets.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du machst ein Foto von der Katze.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je maakt een foto van de kat.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Diese Antwort ist falsch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Dat antwoord is fout.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er kauft Obst auf dem Markt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij koopt fruit op de markt.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie besucht ihre Familie.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij bezoekt haar familie.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich trinke gern Kaffee.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik drink graag koffie.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr geht zur Schule.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie gaan naar school.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie geben eine Feier.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij geven een feest.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er füllt das Glas mit Wasser.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij vult het glas met water.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Komm schnell herein!",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Kom gauw binnen!",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr lest ein Buch über Geschichte.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie lezen een boek over geschiedenis.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie hat kein Geld.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij heeft geen geld.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich habe genug Zeit.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik heb genoeg tijd.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er ist wieder gesund.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij is weer gezond.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Gruppe wartet draußen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De groep wacht buiten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Haus ist groß.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het huis is groot.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie ist glücklich.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij is gelukkig.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich habe Kopfschmerzen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik heb pijn in mijn hoofd.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Euer Haus ist schön.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie huis is mooi.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du brauchst nicht zu warten.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je hoeft niet te wachten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er liest laut.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij leest hardop.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie spielen mit dem Hund.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij spelen met de hond.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie kämmt ihr Haar.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij kamt haar haar.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich höre Musik.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik hoor muziek.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie lieben Fußball.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij houden van voetbal.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Stuhl steht in der Ecke.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De stoel staat in de hoek.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Turm ist hoch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De toren is hoog.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Jemand klopft an der Tür.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Iemand klopt op de deur.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Falls es regnet, bleiben sie drinnen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Indien het regent, blijven zij binnen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst Auskünfte am Schalter erfragen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je kunt inlichtingen vragen bij de balie.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Tisch steht in der Mitte.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De tafel staat in het midden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie möchte etwas trinken.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij wil iets drinken.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich wohne hier ein Jahr.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik woon hier een jaar.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Junge spielt draußen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De jongen speelt buiten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Deine Antwort ist richtig.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je antwoord is juist.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie besuchen die Kirche.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij bezoeken de kerk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er verliert einen Knopf von seinem Mantel.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij verliest een knoop van zijn jas.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Kind schläft.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het kind slaapt.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der König spricht im Fernsehen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De koning spreekt op tv.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Mein Zimmer ist klein.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn kamer is klein.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Wasser ist kalt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het water is koud.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich esse Käse auf Brot.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik eet kaas op brood.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du darfst eine Farbe wählen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je mag een kleur kiezen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Welche Farbe möchtest du?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Welke kleur wil je?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er hat nicht genug Kraft.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij heeft niet genoeg kracht.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr findet den Film nett.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie vinden de film leuk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Suppe ist lecker.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De soep is lekker.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich benutze einen Löffel.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik gebruik een lepel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Licht ist aus.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het licht is uit.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie lachen über den Witz.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij lachen om de grap.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich erstelle eine Liste mit Wörtern.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik maak een lijst met woorden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Decke ist niedrig.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het plafond is laag.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du läufst zur Schule.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je loopt naar school.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie lernen Niederländisch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij leren Nederlands.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er nennt sein Alter.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij vertelt zijn leeftijd.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Straße ist lang.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De straat is lang.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich bleibe einen Monat.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik blijf een maand.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich möchte gehen, aber es regnet.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik wil gaan, maar het regent.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Vielleicht kommt er morgen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Misschien komt hij morgen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Park ist schön.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het park is mooi.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Mädchen liest.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het meisje leest.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich möchte mehr Wasser.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik wil meer water.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Meine Mutter kocht.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn moeder kookt.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Mein Buch liegt hier.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn boek ligt hier.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie trinkt Milch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij drinkt melk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie essen meistens Brot.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij eten meestal brood.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Mann arbeitet.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De man werkt.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du musst lernen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je moet studeren.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ist es möglich?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Is het mogelijk?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie stehen in der Mitte des Platzes.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij staan in het midden van het plein.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Niemand ist zu Hause.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Niemand is thuis.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich verstehe es nicht.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik begrijp het niet.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er schläft noch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij slaapt nog.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie rauchen nie.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij roken nooit.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Bank steht neben der Tür.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De bank staat naast de deur.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr geht zum Strand.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie gaan naar het strand.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Meine Nase ist kalt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn neus is koud.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er vergisst die Nummer.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij vergeet het nummer.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Buch ist neu.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het boek is nieuw.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Mein Name ist Anna.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn naam is Anna.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie lieben die Natur.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij houden van natuur.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich komme auch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik kom ook.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er schließt sein Auge.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij sluit zijn oog.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Vormittag ist ruhig.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De ochtend is stil.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Haus ist alt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het huis is oud.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Katze liegt unter dem Stuhl.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De kat ligt onder de stoel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst die Flasche öffnen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je kunt de fles openen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er steht auf der Bühne.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij staat op het podium.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie besuchen ihre Eltern.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij bezoeken hun ouders.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr sucht überall.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie zoeken overal.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Krieg war lang.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De oorlog was lang.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er will mit dir sprechen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij wil met je praten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Es ist deine Pflicht zu lernen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het is je plicht om te leren.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Preis ist niedrig.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De prijs is laag.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Zwei plus zwei ist vier.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Twee plus twee is vier.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich habe ein Problem.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik heb een probleem.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst es versuchen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je kunt het proberen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Dieser Platz ist frei.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Deze plaats is vrij.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie haben Spaß.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij hebben plezier.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Setze einen Punkt am Ende.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zet een punt aan het eind.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Pferd läuft snel.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het paard loopt snel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich schreibe auf Papier.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik schrijf op papier.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er ist nicht reich.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij is niet rijk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Reise dauert kurz.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De reis duurt kort.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Blume ist rot.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De bloem is rood.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich laufe um den See herum.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik loop rond het meer.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du gehst geradeaus.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je loopt recht vooruit.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie rennen nach Hause.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij rennen naar huis.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er kann Auto fahren.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij kan auto rijden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich muss meine Hände reinigen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik moet mijn handen reinigen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Es ist ruhig in der Klasse.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het is rustig in de klas.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr esst schnell.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie eten snel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Mein Schuh ist kaputt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn schoen is kapot.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Kind geht zur Schule.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het kind gaat naar school.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich möchte einen Brief schreiben.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik wil een brief schrijven.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du sprichst gut Niederländisch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je spreekt goed Nederlands.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er geht schlafen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij gaat slapen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie wohnen in dieser Straße.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij wonen in deze straat.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Stadt ist groß.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De stad is groot.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich sitze auf dem Stuhl.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik zit op de stoel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er ist sterk.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij is sterk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie ist schlau.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij is slim.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Wetter ist schlecht.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het weer is slecht.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Tasche ist schwer.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De tas is zwaar.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Bett is zacht.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het bed is zacht.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich kann das Meer sehen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik kan de zee zien.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du suchst deinen Schlüssel.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je zoekt je sleutel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er wil etwas sagen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij wil iets zeggen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich bin sicher.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik ben zeker.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie wohnen hier seit März.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij wonen hier sinds maart.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Manchmal regnet es.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Soms regent het.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Kinder spielen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De kinderen spelen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr startet den Computer.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie starten de computer.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst eine Frage stellen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je kunt een vraag stellen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich habe keine Zeit.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik heb geen tijd.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er bleibt heute zu Hause.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij blijft vandaag thuis.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Als ich klein war, aß ich viel Eis.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Toen ik klein was, at ik veel ijs.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Mach die Tür zu, bitte.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Doe de deur toe, alsjeblieft.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Warte bis morgen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Wacht tot morgen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich sitze zwischen Freunden.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik zit tussen vrienden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie geht zum Zahnarzt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij gaat naar de tandarts.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er kommt morgen zurück.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij komt morgen terug.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Tisch ist rund.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De tafel is rond.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Niederländisch ist eine Sprache.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Nederlands is een taal.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich arbeite im Garten.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik werk in de tuin.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich kann die Hitze nicht aushalten.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik kan de hitte niet uithouden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du bekommst eine Einladung.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je krijgt een uitnodiging.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie möchte das Licht ausmachen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij wil het licht uitmaken.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er versucht, die Aufgabe zu erklären.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij probeert de taak uit te leggen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Wo ist der Ausgang?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Waar is de uitgang?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Aussicht ist schön.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het uitzicht is mooi.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Schließlich versteht ihr es.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Uiteindelijk begrijpen jullie het.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich habe eine Frage.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik heb een vraag.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Samstag bin ich frei.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zaterdag ben ik vrij.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er ist mein Freund.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij is mijn vriend.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie ist eine starke Frau.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij is een sterke vrouw.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er steht früh auf.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij staat vroeg op.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Mein Vater liest.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Mijn vader leest.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie essen kein Fleisch.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij eten geen vlees.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Dieses Ticket hat einen Vorteil.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Dit ticket heeft een voordeel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Letztes Jahr reiste ich viel.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Vorig jaar reisde ik veel.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Es gibt eine kleine Veränderung.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Er is een kleine verandering.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "In der Vergangenheit wohnte er hier.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "In het verleden woonde hij hier.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst die Geschichte erzählen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Du kunt het verhaal vertellen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Öffentlicher Verkehr ist günstig.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Openbaar vervoer is goedkoop.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie verdienen wenig Geld.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij verdienen weinig geld.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Was ist der Unterschied?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Wat is het verschil?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich werde umziehen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik ga verhuizen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das genügt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Dat voldoet.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie ist fröhlich.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij is vrolijk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Es ist sicher hier.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het is veilig hier.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Der Bahnhof ist weit.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het station is ver.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst Preise vergleichen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je kunt prijzen vergelijken.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Wer ist das?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Wie is dat?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Was machst du?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Wat doe je?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Wo wohnst du?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Waar woon jij?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Wann kommst du?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Wanneer kom je?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Warum lachst du?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Waarom lach je?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Welche Farbe möchtest du?",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Welke kleur wil je?",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er will es wissen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij wil het weten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie wollen Tee.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij willen thee.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Es ist wieder kalt.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Het is weer koud.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich gehe zu meiner Arbeit.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik ga naar mijn werk.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Du kannst Arzt werden.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Je kunt dokter worden.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr müsst warten.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie moeten wachten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ihr geht spazieren.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Jullie gaan wandelen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich muss meine Hände waschen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik moet mijn handen wassen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Die Wand ist weiß.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De muur is wit.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Selbst er versteht es.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zelfs hij begrijpt het.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie sprechen über Solarenergie.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij praten over zonne‑energie.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Im Sommer schwimmen sie oft.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "In de zomer zwemmen zij vaak.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Das Geschäft ist geschlossen.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De zaak is gesloten.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Er möchte auf dem See segeln.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Hij wil zeilen op het meer.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Sie singen ein Lied.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Zij zingen een lied.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Tu etwas Salz in die Suppe.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Doe wat zout in de soep.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          },
+          {
+            "teacher_speaks": {
+              "text": "Ich bin krank.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "Ik ben ziek.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          }
+        ]
+      }
+    ]
+  }
+}
