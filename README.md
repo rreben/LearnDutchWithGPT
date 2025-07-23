@@ -98,6 +98,7 @@ python lesson_cli.py -i lesson_input_files/001_Segeln_Begriffe.json -o lesson.mp
 ```
 
 The export creates:
+
 - **Anki import file**: Tab-separated text file with teacher instructions and solutions
 - **Audio files**: Individual MP3 files for each solution in the `tmp_output/` directory
 - **Main lesson MP3**: Complete audio lesson as usual
@@ -108,7 +109,7 @@ The export creates:
    - Open Anki and select your deck
    - Go to File → Import
    - Select the generated text file (e.g., `anki_import.txt`)
-   - Set field separator to "Semicolon" 
+   - Set field separator to "Semicolon"
    - Map fields: Field 1 → Front, Field 2 → Back
    - Click Import
 
@@ -130,6 +131,7 @@ python lesson_cli.py -i lesson_input_files/001_Segeln_Begriffe.json -o lesson.mp
 ```
 
 **Why use compression?**
+
 - **Consistent volume levels**: Ensures teacher instructions, student response times, and solutions all play at similar volumes
 - **Better learning experience**: No need to constantly adjust volume during the lesson
 - **Professional audio quality**: Reduces distracting volume differences between different text-to-speech segments
