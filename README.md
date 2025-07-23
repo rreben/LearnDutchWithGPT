@@ -104,12 +104,14 @@ The JSON file must follow this hierarchical structure. Here's an example based o
 ### Language Codes
 
 Currently supported language codes:
+
 - `"de"` - German (uses Daniel voice)
 - `"nl"` - Dutch (uses Jamie voice)
 
 ### Example Files
 
 You can find complete example JSON files in the `lesson_input_files/` directory:
+
 - `001_Segeln_Begriffe.json` - Sailing terminology
 - `002_Segeln_Anlegen_Ankern.json` - Docking and anchoring
 - `003_Segeln_Wind_Kurs_Motor.json` - Wind, course and motor
