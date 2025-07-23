@@ -46,9 +46,76 @@ Ensure you have a Python 3.8+ environment set up.
 
 ## Usage
 
-Prepare your lesson JSON file (e.g., lesson.json). Make sure it follows the expected structure (title, description, exercises, tasks, etc.).
+The core input for the lesson generator is a structured JSON file that defines the lesson content, exercises, and tasks.
 
-### Run the CLI to convert your JSON into audio
+### JSON Lesson Structure
+
+The JSON file must follow this hierarchical structure. Here's an example based on the sailing terminology lesson:
+
+```json
+{
+  "lesson": {
+    "title": {
+      "text": "Segelbegriffe an Bord",
+      "language_code": "de"
+    },
+    "description": {
+      "text": "In dieser Lektion werden wichtige Begriffe an Bord eines Segelbootes besprochen.",
+      "language_code": "de"
+    },
+    "exercises": [
+      {
+        "explanation": {
+          "text": "Übersetze die Sätze ins Niederländische. Danach hör Dir die Lösung an und vergleiche.",
+          "language_code": "de"
+        },
+        "tasks": [
+          {
+            "teacher_speaks": {
+              "text": "Die Pinne dient zur Steuerung des Bootes.",
+              "language_code": "de"
+            },
+            "student_response_time": 5000,
+            "teacher_solution": {
+              "text": "De helmstok wordt gebruikt om de boot te sturen.",
+              "language_code": "nl"
+            },
+            "play_separator_tone": true
+          }
+        ]
+      }
+    ]
+  }
+}
+```
+
+### Required Fields
+
+- **lesson.title**: Lesson title with text and language code
+- **lesson.description**: Brief description of what the lesson covers
+- **lesson.exercises**: Array of exercises, each containing:
+  - **explanation**: What this exercise focuses on
+  - **tasks**: Array of individual learning tasks with:
+    - **teacher_speaks**: Instruction or question (typically in German)
+    - **student_response_time**: Pause duration in milliseconds for student response
+    - **teacher_solution**: Expected answer (typically in Dutch)
+    - **play_separator_tone**: Whether to play a tone after this task
+
+### Language Codes
+
+Currently supported language codes:
+- `"de"` - German (uses Daniel voice)
+- `"nl"` - Dutch (uses Jamie voice)
+
+### Example Files
+
+You can find complete example JSON files in the `lesson_input_files/` directory:
+- `001_Segeln_Begriffe.json` - Sailing terminology
+- `002_Segeln_Anlegen_Ankern.json` - Docking and anchoring
+- `003_Segeln_Wind_Kurs_Motor.json` - Wind, course and motor
+- `004_Vokabel_und_Wortstellung.json` - Vocabulary and word order
+
+### Generate Audio from JSON
 
 ```bash
 python lesson_cli.py --input-file path/to/lesson.json --output-file lesson_output.mp3
