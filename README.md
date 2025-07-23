@@ -83,6 +83,59 @@ python lesson_cli.py -v
 
 Once the command completes, you will have an MP3 file that begins with the lesson title, follows with the description, then goes through all exercises and their tasks.
 
+### Export Anki Flashcards
+
+You can export the lesson content as Anki flashcards using the `-e` or `--export-texts` option:
+
+```bash
+python lesson_cli.py -i lesson_input_files/001_Segeln_Begriffe.json -o lesson.mp3 -e
+```
+
+This creates an `anki_import.txt` file by default. You can specify a custom filename:
+
+```bash
+python lesson_cli.py -i lesson_input_files/001_Segeln_Begriffe.json -o lesson.mp3 -e my_anki_cards.txt
+```
+
+The export creates:
+- **Anki import file**: Tab-separated text file with teacher instructions and solutions
+- **Audio files**: Individual MP3 files for each solution in the `tmp_output/` directory
+- **Main lesson MP3**: Complete audio lesson as usual
+
+### Importing into Anki
+
+1. **Import the text file**:
+   - Open Anki and select your deck
+   - Go to File → Import
+   - Select the generated text file (e.g., `anki_import.txt`)
+   - Set field separator to "Semicolon" 
+   - Map fields: Field 1 → Front, Field 2 → Back
+   - Click Import
+
+2. **Add audio files**:
+   - Copy all MP3 files from the `tmp_output/` directory
+   - Paste them into your Anki media folder:
+     - **Windows**: `%APPDATA%\Anki2\[Profile]\collection.media\`
+     - **Mac**: `~/Library/Application Support/Anki2/[Profile]/collection.media/`
+     - **Linux**: `~/.local/share/Anki2/[Profile]/collection.media/`
+
+3. **Verify**: The flashcards will show the teacher instruction on the front and the solution with audio on the back.
+
+### Audio Compression
+
+For improved listening experience, you can apply audio compression using the `-c` or `--use-compression` option:
+
+```bash
+python lesson_cli.py -i lesson_input_files/001_Segeln_Begriffe.json -o lesson.mp3 -c
+```
+
+**Why use compression?**
+- **Consistent volume levels**: Ensures teacher instructions, student response times, and solutions all play at similar volumes
+- **Better learning experience**: No need to constantly adjust volume during the lesson
+- **Professional audio quality**: Reduces distracting volume differences between different text-to-speech segments
+
+The compression evens out quiet and loud passages, making the entire lesson more comfortable to listen to, especially when using headphones or in varying acoustic environments.
+
 ## Project Structure
 
 Below is an example structure for the project:
