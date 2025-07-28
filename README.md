@@ -174,22 +174,55 @@ The export creates:
 
 ### Importing into Anki
 
-1. **Import the text file**:
-   - Open Anki and select your deck
-   - Go to File → Import
+**Important**: The import process only works with Anki Desktop. Anki Web and mobile apps do not support importing flashcard decks.
+
+#### Initial Setup
+
+1. **Update Anki**: Ensure you have the latest version of Anki Desktop installed.
+
+2. **Create a new deck**:
+   - Create a new deck (e.g., *Nederlands*)
+   - Optionally configure a deck profile to customize the spaced repetition algorithm
+
+3. **Create a custom note type**:
+   - Go to *Tools → Manage Note Types* (*Extras → Notiztypen verwalten*)
+   - Create a new note type (e.g., *NederlandsNoteType*, clone from *Basic*)
+   - Under *Fields* (*Felder*), add a third field called *NL_Audio*
+   - Note: This field cannot be directly assigned to the back of the card
+
+4. **Customize card layout**:
+   - Open your deck → *Browse* (*Kartenverwaltung*)
+   - Under *Cards* (*Karten*), adjust the layout to display audio properly
+   - Create a test card manually to verify your setup works
+
+#### Import Process
+
+1. **Prepare audio files**:
+   - In Anki Desktop, go to *Tools → Check Media* (*Extras → Mediendateien überprüfen*)
+   - Click *Show Folder* (*Ordner anzeigen*) to open your Anki media directory
+   - Copy all MP3 files from the `tmp_output/` directory into this folder
+
+2. **Import the text file**:
+   - Go to *File → Import* (*Datei → Importieren*)
    - Select the generated text file (e.g., `anki_import.txt`)
    - Set field separator to "Semicolon"
-   - Map fields: Field 1 → Front, Field 2 → Back
+   - Map fields: Field 1 → Front, Field 2 → Back, Field 3 → NL_Audio
+   - Select your custom note type
    - Click Import
 
-2. **Add audio files**:
-   - Copy all MP3 files from the `tmp_output/` directory
-   - Paste them into your Anki media folder:
-     - **Windows**: `%APPDATA%\Anki2\[Profile]\collection.media\`
-     - **Mac**: `~/Library/Application Support/Anki2/[Profile]/collection.media/`
-     - **Linux**: `~/.local/share/Anki2/[Profile]/collection.media/`
-
 3. **Verify**: The flashcards will show the teacher instruction on the front and the solution with audio on the back.
+
+#### Sharing Your Deck
+
+To share an Anki deck with media files:
+
+1. Select the deck in Anki's main window
+2. Go to *File → Export* (*Datei → Exportieren*)
+3. Choose format "Anki Deck Package (*.apkg)"
+4. Enable "Include media" (*Medien einschließen*) option
+5. Click Export and save the file
+
+The recipient can then import this .apkg file directly into their Anki installation, complete with all audio files.
 
 ### Audio Compression
 
